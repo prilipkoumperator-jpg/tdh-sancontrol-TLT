@@ -1,0 +1,25 @@
+{
+  "name": "ТДХ | Санитарный контроль — ОП Тольятти",
+  "short_name": "ТДХ Санконтроль",
+  "description": "Автономные санитарные проверки производства ОП Тольятти",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#092b51",
+  "theme_color": "#092b51",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
